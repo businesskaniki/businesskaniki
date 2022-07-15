@@ -1,3 +1,5 @@
+![banner gif](./images/nick.gif)
+
 ### Hi there am Nicholas a full-stack software engeneer 👋
 
 
