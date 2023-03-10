@@ -12,3 +12,4 @@
 - 📫 How to reach me:![twiter](https://twitter.com/Nik7346)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: i very much like ethical hacking
+- I like Development
