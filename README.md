@@ -9,7 +9,7 @@ Hello, I'm Nicholas, a versatile and passionate software developer with a knack 
 
 - 🚀 **Passionate Developer**: I'm driven by the thrill of solving challenging problems and creating innovative solutions.
 
-- 💼 **Professional Experience**: I have X years of experience in software development, having worked on a wide range of projects.
+- 💼 **Professional Experience**: I have  years of experience in software development, having worked on a wide range of projects.
 
 - 🌐 **Tech Enthusiast**: I'm constantly exploring new technologies and trends, staying up-to-date with the ever-evolving tech landscape.
 
@@ -19,33 +19,26 @@ Hello, I'm Nicholas, a versatile and passionate software developer with a knack 
 
 Here are some of the technologies and skills I'm proficient in:
 
-- **Languages**: Python, JavaScript, Java
-- **Web Development**: HTML, CSS, React, Django
-- **Database**: SQL, MongoDB
+- **Languages**: Python, JavaScript, Ruby
+- **Web Development**: HTML, CSS, React, Django,Tailwind,ruby on rails, php,
+- **Database**: SQL, MongoDB, mySQL ,Postgres
 - **Tools & Frameworks**: Git, Docker, Flask, Node.js
-- **Problem Solving**: Data Structures & Algorithms
+- **Problem Solving**: Data Structures & Algorithms And more
 
-## Projects
-
-Explore some of my noteworthy projects:
-
-- [Project 1](https://github.com/your_username/project1): A brief description of the project.
-- [Project 2](https://github.com/your_username/project2): Another exciting project you've worked on.
-- [Project 3](https://github.com/your_username/project3): Showcase your diverse skills with different projects.
 
 ## Get in Touch
 
 I'm open to new opportunities and collaborations. Feel free to reach out to me:
 
-- 📧 Email: john.doe@email.com
-- 🐦 Twitter: [@johndoe_dev](https://twitter.com/johndoe_dev)
-- 💼 LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
+- 📧 Email: businesskanikii@gmail.com
+- 🐦 Portfolio: [dev nick](https://dev-nicholas-maina.netlify.app/)
+- 💼 LinkedIn: [nicholas](https://www.linkedin.com/in/johndoe)
 
 Let's connect, and together, we can create amazing software!
 
 ---
 
 <p align="center">
-  &copy; 2023 John Doe
+  &copy; 2023 nicholas
 </p>
 
