@@ -1,13 +1,11 @@
 ![GIF](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <!-- Replace the following placeholders with your personal information -->
 # Nicholas Maina
-*Software Developer | Problem Solver | Passionate Learner*
+*Software Developer | Problem Solver |team player
 
-Hello, I'm Nicholas, a versatile and passionate software developer with a knack for crafting elegant solutions to complex problems. My journey in the world of coding has been an exciting one, and I'm thrilled to share my skills and experiences with you.
+Hello, I'm Nicholas, a pro Python Developer. My journey in the world of coding has been an exciting one, and I'm thrilled to share my skills and experiences with you.
 
 ## About Me
-
-- 🚀 **Passionate Developer**: I'm driven by the thrill of solving challenging problems and creating innovative solutions.
 
 - 💼 **Professional Experience**: I have  years of experience in software development, having worked on a wide range of projects.
 
@@ -21,8 +19,8 @@ Here are some of the technologies and skills I'm proficient in:
 
 - **Languages**: Python, JavaScript, Ruby
 - **Web Development**: HTML, CSS, React, Django,Tailwind,ruby on rails, php,
-- **Database**: SQL, MongoDB, mySQL ,Postgres
-- **Tools & Frameworks**: Git, Docker, Flask, Node.js
+- **Database**: SQL, MongoDB, MySQL , Postgres
+- **Tools & Frameworks**: Git, Docker, Flask, Node.js,Django,React
 - **Problem Solving**: Data Structures & Algorithms And more
 
 
