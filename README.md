@@ -4,6 +4,7 @@
 *Software Developer | Problem Solver |team player
 
 Hello, I'm Nicholas, a pro Python Developer. My journey in the world of coding has been an exciting one, and I'm thrilled to share my skills and experiences with you.
+currently learning AI and Deep learning
 
 ## About Me
 
@@ -11,16 +12,16 @@ Hello, I'm Nicholas, a pro Python Developer. My journey in the world of coding h
 
 - 🌐 **Tech Enthusiast**: I'm constantly exploring new technologies and trends, staying up-to-date with the ever-evolving tech landscape.
 
-- 📚 **Lifelong Learner**: I believe in continuous learning and personal growth. I'm always eager to expand my knowledge and skillset.
+- 📚 **Lifelong Learner**: I believe in continuous learning and personal growth. I'm always eager to expand my knowledge and skill set.
 
 ## Skill Set
 
 Here are some of the technologies and skills I'm proficient in:
 
-- **Languages**: Python, JavaScript, Ruby
-- **Web Development**: HTML, CSS, React, Django,Tailwind,ruby on rails, php,
-- **Database**: SQL, MongoDB, MySQL , Postgres
-- **Tools & Frameworks**: Git, Docker, Flask, Node.js,Django,React
+- **Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS, React, Django, Tailwind
+- **Database**: SQL, MongoDB, MySQL, Postgres, Reis
+- **Tools & Frameworks**: Git, Docker, Flask, Node.js, Django, React, NPL, PyTorch, TensorFlow, pandas, numpy, Selenium
 - **Problem Solving**: Data Structures & Algorithms And more
 
 
@@ -37,6 +38,6 @@ Let's connect, and together, we can create amazing software!
 ---
 
 <p align="center">
-  &copy; 2023 nicholas
+  &copy; 2024 nicholas
 </p>
 
